@@ -1,0 +1,50 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be020",
+		"title": "Best full stack web course!",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "5",
+		"course": "5d725a4a7b292f5f8ceff789",
+		"user": "5c8a1d5b0190b214360dc032"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be021",
+		"title": "Great iOS course",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "4",
+		"course": "5d725c84c4ded7bcb480eaa0",
+		"user": "5c8a1d5b0190b214360dc033"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be022",
+		"title": "Got me a game developer job!",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "5",
+		"course": "5d725cb9c4ded7bcb480eaa1",
+		"user": "5c8a1d5b0190b214360dc035"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be023",
+		"title": "It was an ok Android course",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "3",
+		"course": "5d725cd2c4ded7bcb480eaa2",
+		"user": "5c8a1d5b0190b214360dc036"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be024",
+		"title": "API dev is awesome",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "4",
+		"course": "5d725cfec4ded7bcb480eaa4",
+		"user": "5c8a1d5b0190b214360dc032"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be025",
+		"title": "AI will conquer the world!",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "5",
+		"course": "5d725cfec4ded7bcb480eaa5",
+		"user": "5c8a1d5b0190b214360dc039"
+	}
+]

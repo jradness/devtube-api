@@ -1,0 +1,93 @@
+[
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"title": "Full Stack Web Development",
+		"description": "This is where it all begins! A hands-on training to all of the essential front-end and backend skills you'll need to build real, working websites.",
+		"website": "https://devslopes.com",
+		"modules": 16,
+		"price": 397,
+		"minimumSkill": "beginner",
+		"category": "web",
+		"rating": 4.5,
+		"photo": "full-stack-web.jpg",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"title": "Beginner Swift Crash Course",
+		"description": "A quick intro into Swift and the Devslopes way of teaching. If you like what you are learning, the next step is to enroll in the Devslopes Academy",
+		"website": "https://devslopes.com",
+		"modules": 12,
+		"price": 347,
+		"minimumSkill": "beginner",
+		"category": "ios",
+		"rating": 4,
+		"photo": "beginner-crash-ios.jpg",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"title": "Game Development with Unity 2018",
+		"description": "Learn the basics of 3D game development and then up your skills as you build each new game. You'll learn everything - from code to animations to AI.",
+		"website": "https://devslopes.com",
+		"modules": 7,
+		"price": 200,
+		"minimumSkill": "beginner",
+		"category": "game",
+		"rating": 4.1,
+		"photo": "unity-2018.jpg",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"title": "Beginner Android with Kotlin",
+		"description": "Write 40% less code with Kotlin! It's also 100% interoperable with Java. You can literally continue work on your old Java projects using Kotlin.",
+		"website": "https://devslopes.com",
+		"modules": 9,
+		"price": 200,
+		"minimumSkill": "beginner",
+		"category": "android",
+		"rating": 4.2,
+		"photo": "android-kotlin.jpg",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"title": "Mobile Product Design",
+		"description": "Design mobile apps in Sketch 3 & learn the business principles behind product design.",
+		"website": "https://devslopes.com",
+		"modules": 16,
+		"price": 397,
+		"minimumSkill": "beginner",
+		"category": "UI/UX",
+		"rating": 4.5,
+		"photo": "full-stack-web.jpg",
+		"user": "5c8a1d5b0190b214360dc031"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"title": "Beginner API Development",
+		"description": "REST API backend development. Build Node API and restful express API. (With Node, Express, ES6, & MongoDB)",
+		"website": "https://devslopes.com",
+		"modules": 9,
+		"price": 347,
+		"minimumSkill": "intermediate",
+		"category": "web",
+		"rating": 4.6,
+		"photo": "api-dev.jpg",
+		"user": "5c8a1d5b0190b214360dc031"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa5",
+		"title": "Machine Learning for Apps",
+		"description": "Start building more intelligent apps with Machine Learning. Take advantage of this new foundational framework!",
+		"website": "https://devslopes.com",
+		"modules": 6,
+		"price": 97,
+		"minimumSkill": "intermediate",
+		"category": "web",
+		"rating": 4,
+		"photo": "ai.jpg",
+		"user": "5c8a1d5b0190b214360dc032"
+	}
+]

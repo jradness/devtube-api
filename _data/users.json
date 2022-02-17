@@ -1,0 +1,107 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be042",
+		"name": "Admin Account",
+		"email": "admin@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be043",
+		"name": "Web Publisher Account",
+		"email": "web@mailinator.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be044",
+		"name": "iOS Publisher Account",
+		"email": "ios@mailinator.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be045",
+		"name": "Android Publisher Account",
+		"email": "android@mailinator.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be046",
+		"name": "Game Publisher Account",
+		"email": "game@mailinator.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc031",
+		"name": "UI/UX Publisher Account",
+		"email": "uiux@mailinator.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc032",
+		"name": "Billy Jean",
+		"email": "billy@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc033",
+		"name": "Harry Mack",
+		"email": "harry@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc034",
+		"name": "Derek Stocking",
+		"email": "derek@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc035",
+		"name": "Jenna Hanson",
+		"email": "jenna@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc036",
+		"name": "Jerry Sprinkles",
+		"email": "jerry@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc037",
+		"name": "Jude Johnson",
+		"email": "jude@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc038",
+		"name": "Mike Crunch",
+		"email": "mike@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc039",
+		"name": "Orion Bravo",
+		"email": "orion@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc040",
+		"name": "Sarah Smith",
+		"email": "sarah@mailinator.com",
+		"role": "user",
+		"password": "123456"
+	}
+]
